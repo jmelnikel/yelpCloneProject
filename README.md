@@ -2,7 +2,7 @@
 
 Yelper-licious is a SPA inspired by Yelp using:
 - Tech stack: React, Node, Express, and PostgreSQL.
-- Deployment: Nginx and PM2 on a DigitalOcean Droplet.
+- Deployment: Nginx and PM2 on an Ubuntu DigitalOcean Droplet.
 
 This app is a learning project to reinforce and expand on the authors knowledge and experience using the tech stack and also to learn deployment.
 
